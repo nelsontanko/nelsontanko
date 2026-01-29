@@ -15,7 +15,7 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
 
 - 💬 Ask me about **Software engineering especially relating to Java, devops, and community management**
 
-- 📫 Reach me at **peternelson063@gmail.com**
+- 📫 Reach me at **nelsonwisdomtanko@gmail.com**
 
 </div>
   
