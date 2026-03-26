@@ -11,7 +11,7 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
 
 - 🤝 I’m open to **opportunities!**
 
-- 👨‍💻 My [Linkedin](https://www.linkedin.com/in/nelson-tanko-76b623249/) profile
+- 👨‍💻 My [Linkedin](https://www.linkedin.com/in/nelson-w-tanko/) profile
 
 - 💬 Ask me about **Software engineering especially relating to Java, devops, and community management**
 
@@ -23,7 +23,7 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
 <!-- ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=prs&show_icons=true&theme=gruvbox&rank_icon=github) -->
 <div align="center">
     
-  ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=issues&show_icons=true&theme=gruvbox&rank_icon=github)
+  ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsontanko&hide=issues&show_icons=true&theme=gruvbox&rank_icon=github)
 </div>
 <p font="bold">Technology Stack</p>
 
